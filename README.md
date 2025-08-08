@@ -1,4 +1,4 @@
-# 🛠️ SYSADMIN ADMIN SURVIVOR GUIDE
+# 🛠️ SYSADMIN SURVIVOR GUIDE
 
 *A collaborative guide by Karima Mandili and Hiba Ouaddad*
 
