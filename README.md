@@ -19,12 +19,12 @@ Below are the chapters and key issues we’re documenting.
 
 ### 🔌 Hardware & Boot Issues (1–15)  
 - [✅] #1: System won’t power on  
-- [🟡] #2: No display after power-on (black screen)  
+- [✅] #2: No display after power-on (black screen)  
 - [✅] #3: “No bootable device” error  
-- [🟡] #4: Boot loop (repeated restarts)  
-- [🟡] #5: Beep codes during POST 
+- [✅] #4: Boot loop (repeated restarts)  
+- [✅] #5: Beep codes during POST 
 - [🟡] #6: BIOS/UEFI not detecting hard drive  
-- [🟡] #7: Corrupted firmware/UEFI settings  
+- [✅] #7: Corrupted firmware/UEFI settings  
 - [🟡] #8: Boot from wrong device (e.g., USB stuck in boot order)  
 - [🟡] #9: GRUB not loading (Linux)  
 - [🟡] #10: Windows Boot Manager missing or corrupted  
