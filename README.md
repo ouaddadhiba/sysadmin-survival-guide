@@ -26,7 +26,7 @@ Below are the chapters and key issues we’re documenting.
 - [🟡] #6: BIOS/UEFI not detecting hard drive  
 - [✅] #7: Corrupted firmware/UEFI settings  
 - [🟡] #8: Boot from wrong device (e.g., USB stuck in boot order)  
-- [🟡] #9: GRUB not loading (Linux)  
+- [✅] #9: GRUB not loading (Linux)  
 - [🟡] #10: Windows Boot Manager missing or corrupted  
 - [🟡] #11: Kernel panic (Linux/macOS)  
 - [🟡] #12: Blue Screen of Death (BSOD) on startup  
